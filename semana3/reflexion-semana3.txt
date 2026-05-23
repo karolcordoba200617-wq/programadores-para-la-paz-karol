@@ -1,0 +1,8 @@
+Mantener un registro de cambios con herramientas como Git es fundamental en el software
+porque garantiza la trazabilidad, permitiendo saber con exactitud qué se modificó, cuándo
+y quién lo hizo. Esto es una gran ventaja, ya que si un nuevo código genera un error o rompe
+el programa, el equipo puede regresar fácilmente a una versión anterior que funcionaba bien,
+minimizar las pérdidas de tiempo. Además, en el desarrollo colaborativo evita que los
+archivos se sobreescriban o se pierdan, facilitando que varias personas trabajen en el mismo
+proyecto de forma ordenada. En conclusión, Git transforma el desorden de los archivos en un
+historial seguro, transparente y profesional que mejora la calidad y continuidad del trabajo.
