@@ -1,0 +1,9 @@
+El dominio de la terminal es una habilidad fundamental para cualquier desarrollador, ya que
+permite interactuar directamente con el sistema operativo de forma más rápida y eficiente.
+A diferencia de las interfaces gráficas, la terminal consume menos recursos del sistema y
+brinda un control total sobre la organización de carpetas y archivos en proyectos complejos.
+Aprender comandos básicos como pwd, ls o mkdir facilita la automatización de tareas repetitivas
+y es un requisito indispensable para utilizar herramientas avanzadas como Git y GitHub.
+Además, la mayoría de los servidores en la nube y entornos de producción profesionales se
+gestionan exclusivamente mediante líneas de comandos, por lo que dominar esta herramienta
+desde el inicio prepara al estudiante para enfrentar los desafíos del desarrollo real.
