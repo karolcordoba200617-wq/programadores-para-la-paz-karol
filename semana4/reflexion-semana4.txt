@@ -1,0 +1,9 @@
+Es fundamental que las comunidades e iniciativas ciudadanas construyan sus propias herramientas
+tecnológicas utilizando tecnologías abiertas como Node.js, ya que esto les otorga total autonomía
+y soberanía digital. Al no depender de software comercial o licencias costosas, los proyectos
+comunitarios se vuelven sostenibles a largo plazo y pueden adaptarse libremente a las necesidades
+reales y específicas de su entorno. Además, las tecnologías de código abierto cuentan con comunidades
+globales de aprendizaje, lo que facilita que los ciudadanos se capaciten, colaboren y compartan
+conocimientos sin restricciones. De esta manera, el software se convierte en un bien común que empodera
+a los ciudadanos, permitiéndoles resolver problemas locales y gestionar su información con transparencia,
+seguridad y sin depender de grandes corporaciones tecnológicas.
