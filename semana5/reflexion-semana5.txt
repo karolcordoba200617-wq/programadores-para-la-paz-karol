@@ -1,0 +1,7 @@
+Las APIs representan una herramienta tecnológica con un enorme potencial para el desarrollo
+comunitario, ya que actúan como puentes que permiten centralizar y organizar información
+clave de manera inmediata. Al conectar diferentes aplicaciones, una API puede recolectar
+reportes ciudadanos, alertas vecinales o solicitudes de ayuda, y dirigirlos de forma automática
+hacia los servidores correspondientes para su gestión. Esto elimina la necesidad de intermediarios
+y canales informales que suelen saturarse o perder datos, como las llamadas o mensajes de texto.
+Ampliar el uso de estas herramientas ayuda a que la comunidad tome decisiones basadas en información real.
