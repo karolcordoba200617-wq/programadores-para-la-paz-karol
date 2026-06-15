@@ -1,0 +1,12 @@
+{
+  "name": "semana6",
+  "version": "1.0.0",
+  "description": "Servidor Express para registro de incidencias comunitarias",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
