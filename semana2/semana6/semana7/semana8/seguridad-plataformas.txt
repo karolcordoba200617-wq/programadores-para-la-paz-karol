@@ -1,0 +1,5 @@
+1. No exponer datos personales de los ciudadanos de forma pública en la interfaz.
+2. Proteger credenciales de los usuarios utilizando algoritmos de cifrado o hashing.
+3. Usar conexiones seguras HTTPS para encriptar la transferencia de información entre el cliente y el servidor.
+4. Registrar accesos mediante un sistema de logs para auditar quién entra a la plataforma.
+5. Limitar acceso a información sensible únicamente a los administradores autorizados del sistema.
