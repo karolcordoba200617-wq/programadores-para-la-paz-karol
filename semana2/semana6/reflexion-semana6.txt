@@ -1,0 +1,9 @@
+Recibir reportes e información ciudadana de manera estructurada a través de formatos como JSON
+es indispensable para que las plataformas tecnológicas procesen los datos con rapidez y orden.
+Cuando un ciudadano envía una queja o una alerta con campos definidos, el servidor puede leer
+automáticamente variables clave como el tipo de problema, la descripción o la ubicación exacta.
+Esto elimina la necesidad de revisar textos largos o desorganizados manualmente, optimizando el
+tiempo de respuesta de las entidades correspondientes. Además, la información estructurada permite
+almacenar los datos de forma limpia para generar estadísticas automáticas o mapas de incidentes.
+En conclusión, estructurar los datos transforma las alertas comunitarias en soluciones ágiles y
+facilita una gestión pública transparente, eficiente y enfocada en las prioridades de los barrios.
