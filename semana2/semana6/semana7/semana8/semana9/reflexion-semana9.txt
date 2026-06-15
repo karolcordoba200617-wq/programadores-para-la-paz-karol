@@ -1,0 +1,8 @@
+Es de vital importancia que las plataformas tecnológicas comunitarias funcionen de manera estable y segura,
+ya que son el canal directo para que los ciudadanos reporten incidencias y accedan a servicios esenciales.
+Si un servidor se cae constantemente o es inseguro, se pierde la confianza de los vecinos en la herramienta
+y se interrumpe la comunicación, dejando desatendidas las necesidades urgentes de la población. La estabilidad
+garantiza que la información esté disponible las 24 horas del día, permitiendo una participación continua
+y una gestión transparente de los problemas locales. Además, un entorno seguro protege los datos de los
+usuarios frente a posibles ataques o filtraciones de información sensible. En definitiva, mantener un
+servidor confiable es un compromiso técnico y social que fortalece la organización y el tejido comunitario.
