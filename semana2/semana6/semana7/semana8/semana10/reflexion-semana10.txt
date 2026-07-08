@@ -1,0 +1,9 @@
+Las metodologías ágiles permiten transformar proyectos complejos en tareas pequeñas y manejables, lo cual 
+es vital para que las comunidades mantengan el ritmo sin desmotivarse. Al priorizar el trabajo, se 
+garantiza que los problemas más urgentes sean atendidos primero, generando resultados visibles de forma 
+rápida. La automatización con herramientas como n8n, por otro lado, elimina la carga de tareas 
+repetitivas, permitiendo que el equipo humano se enfoque en el análisis y la toma de decisiones. 
+Finalmente, canales como Telegram actúan como puentes de comunicación inmediata, eliminando barreras 
+de acceso a la información y centralizando la coordinación. Integrar estos elementos crea un 
+ecosistema de participación ciudadana mucho más eficiente, transparente, organizado y capaz de 
+responder a las necesidades reales de los habitantes en tiempo real.
