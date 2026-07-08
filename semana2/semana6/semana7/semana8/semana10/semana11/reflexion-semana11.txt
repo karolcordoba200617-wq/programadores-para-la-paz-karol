@@ -1,0 +1,8 @@
+Una plataforma de participación ciudadana requiere una base de datos para organizar el conocimiento colectivo 
+y dar continuidad a los proyectos del barrio a lo largo del tiempo. Sin embargo, este almacenamiento exige 
+mecanismos rigurosos de autenticación para asegurar que solo los usuarios autorizados realicen cambios, 
+evitando sabotajes o la alteración malintencionada de las causas comunitarias. Proteger la información 
+es un deber ético fundamental que resguarda la privacidad y la integridad de los líderes sociales y de los 
+vecinos que participan. Cuando una plataforma digital demuestra ser técnicamente robusta, transparente y 
+respetuosa de los datos personales, genera la confianza necesaria para que la comunidad se apropie de la 
+herramienta, participe activamente y trabaje unida de manera segura en la transformación de su entorno.
