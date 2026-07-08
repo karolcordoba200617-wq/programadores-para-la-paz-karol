@@ -1,0 +1,24 @@
+MODELO DE DATOS BÁSICO
+
+Entidad: Causa
+
+Campos principales:
+- id (Identificador único de la causa)
+- titulo (Nombre representativo de la iniciativa)
+- descripcion (Detalle de la problemática o meta comunitaria)
+- fecha (Día de registro en el sistema)
+
+Propósito de la información:
+Guardar y organizar las causas colectivas o solicitudes comunitarias que serán visibles en la plataforma para que los vecinos las conozcan.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Identificador único del registro de apoyo)
+- causa_id (Enlace o llave para saber a qué causa corresponde)
+- usuario_ficticio (Seudónimo o alias del participante)
+- fecha (Día en el que se registró el apoyo)
+
+Propósito de la información:
+Registrar de forma anónima o con seudónimos los apoyos que recibe cada causa, permitiendo contabilizar la participación ciudadana sin comprometer datos reales.
