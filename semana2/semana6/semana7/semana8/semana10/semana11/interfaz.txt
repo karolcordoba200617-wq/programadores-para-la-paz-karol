@@ -1,0 +1,13 @@
+DISEÑO DE LA INTERFAZ BÁSICA
+
+1. Formulario para crear una causa:
+Consiste en una sección dedicada con campos de texto limpios para ingresar el título de la iniciativa, una descripción detallada de la propuesta y la fecha del registro. Al final, incluye un botón destacado para guardar y publicar la causa en la plataforma.
+
+2. Vista de causas disponibles:
+Es un muro o listado principal donde se muestran de forma ordenada todas las causas comunitarias publicadas, permitiendo que cualquier vecino pueda ingresar, leer los objetivos y enterarse de los proyectos del barrio.
+
+3. Botón para apoyar una causa:
+Cada causa visible en la lista cuenta con un botón interactivo y directo ("Apoyar Causa") para que los usuarios registrados puedan sumar su respaldo de manera rápida.
+
+4. Contador de apoyos:
+Al lado del botón de apoyo se visualiza un indicador numérico dinámico que se actualiza en tiempo real, reflejando el total de respaldos acumulados que tiene la causa sin mostrar información privada ni nombres de quienes apoyaron.
