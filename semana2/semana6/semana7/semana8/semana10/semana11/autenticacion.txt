@@ -1,0 +1,5 @@
+El login o inicio de sesión permite identificar de manera certera la identidad de un usuario en la aplicación antes de concederle permisos. 
+
+Algunas rutas del sistema deben estar estrictamente protegidas porque contienen registros internos, información privada de los líderes de causas o funcionalidades de administración que podrían ser manipuladas de mala fe si se dejaran abiertas al público general. 
+
+Para salvaguardar la integridad de la comunidad, bajo ninguna circunstancia se debe exponer públicamente información como contraseñas, documentos de identidad, números telefónicos, direcciones residenciales, tokens de acceso o claves privadas de API.
