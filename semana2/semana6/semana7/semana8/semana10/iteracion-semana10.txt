@@ -1,0 +1,12 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+- Historia 1: Registrar la incidencia de forma sencilla por parte del ciudadano.
+- Historia 2: Recibir la alerta automatizada en Telegram para el coordinador comunitario.
+
+2. ¿Por qué son las más importantes?
+Son las más importantes porque constituyen el núcleo del servicio (el Producto Mínimo Viable). Sin la capacidad de capturar el reporte ciudadano no existe información para trabajar, y sin la alerta inmediata el coordinador no sabría que debe actuar, rompiendo la comunicación y el sentido de urgencia comunitario.
+
+3. ¿Qué significa que una tarea esté "terminada"? (Criterios de terminado)
+Para considerar una tarea completamente lista, debe cumplir con los siguientes 3 criterios estrictos:
+- Funciona: El código o flujo se ejecuta correctamente y cumple la necesidad planteada sin lanzar errores.
+- Fue probada: Se realizaron pruebas simuladas verificando que los datos se procesan bien.
+- Quedó registrada en Git: El progreso fue guardado, documentado y subido de forma segura al repositorio de GitHub.
