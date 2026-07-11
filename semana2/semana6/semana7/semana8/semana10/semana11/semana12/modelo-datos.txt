@@ -1,0 +1,21 @@
+MODELO DE DATOS BÁSICO
+
+Entidad: Causa
+Campos principales:
+- id (Identificador único de la causa en el sistema)
+- titulo (Nombre corto y descriptivo de la iniciativa)
+- descripcion (Detalle de la problemática o meta que se busca solucionar)
+- fecha (Día y hora de creación de la causa)
+
+Propósito:
+Sirve para almacenar de forma organizada las diferentes propuestas, solicitudes o problemáticas que los ciudadanos plantean en la plataforma para el beneficio de su comunidad.
+
+Entidad: Apoyo
+Campos principales:
+- id (Identificador único de cada voto o firma de apoyo)
+- causa_id (Enlace de referencia que conecta el apoyo con la causa correspondiente)
+- nombre_ficticio (Seudónimo o alias del ciudadano para cuidar su identidad)
+- fecha (Día y hora en la que se registró el respaldo)
+
+Propósito:
+Permite registrar y contabilizar de manera estructurada cada manifestación de apoyo que recibe una causa, sirviendo como base para medir el respaldo comunitario y generar el documento final.
