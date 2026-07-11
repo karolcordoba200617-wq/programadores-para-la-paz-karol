@@ -1,0 +1,7 @@
+FLUJO DEL SISTEMA: PETICIÓN EN 3 CLICS
+
+1. Registro de la Causa: Un ciudadano comprometido ingresa a la plataforma y crea una nueva causa comunitaria describiendo una problemática o meta colectiva del barrio.
+2. Almacenamiento Seguro: La causa y sus detalles quedan registrados de forma inmediata y estructurada en la base de datos de la aplicación.
+3. Respaldo Comunitario: Otros ciudadanos y vecinos ingresan a la plataforma, leen la propuesta y pueden manifestar su apoyo digital presionando un solo botón.
+4. Conteo de Participación: El sistema procesa las solicitudes, cuenta los apoyos recibidos en tiempo real y actualiza el marcador visible de la causa.
+5. Generación del Documento: Al alcanzar una meta o por solicitud del creador, el sistema compila los datos recopilados y genera automáticamente un documento formal en formato PDF con la petición comunitaria lista para ser presentada.
