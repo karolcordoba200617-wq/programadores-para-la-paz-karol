@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología no es solo líneas de código, sino una herramienta 
+poderosa para democratizar la participación ciudadana y fortalecer el tejido social. Entendí cómo 
+un backend bien estructurado con Node.js y Express le da estabilidad a los procesos colectivos, 
+mientras que una base de datos permite que las peticiones y apoyos de la comunidad tengan memoria 
+y trascendencia en el tiempo. Asimismo, el uso de metodologías ágiles nos enseñó a priorizar lo 
+esencial, y la automatización con n8n y Telegram demostró que se pueden optimizar las alertas sin 
+sobrecargar a los líderes comunitarios. Finalmente, comprendí el valor ético de la ciberseguridad y 
+la minimización de datos: para construir una verdadera confianza digital, una plataforma debe ser 
+tan eficiente para generar soluciones como responsable para proteger la privacidad de sus ciudadanos.
