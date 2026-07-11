@@ -1,0 +1,11 @@
+DISEÑO DE AUTOMATIZACIÓN (SISTEMA DE NOTIFICACIONES)
+
+1. ¿Qué evento activa la automatización?
+El flujo se activa de manera automática mediante un Webhook o Trigger en n8n en el preciso instante en que un ciudadano crea y guarda con éxito una nueva causa en la plataforma comunitaria.
+
+2. ¿Qué mensaje se envía?
+Se envía una notificación automática al canal de Telegram de la junta o grupo de veeduría con el siguiente formato:
+"¡Nueva Causa Creada! Se ha registrado una nueva iniciativa comunitaria en la plataforma. Ingresa para conocer los detalles, sumarte al proyecto y registrar tu apoyo."
+
+3. ¿Qué información no debe enviarse por seguridad?
+Para proteger la privacidad y seguridad de la comunidad, bajo ninguna circunstancia se deben adjuntar datos personales ni sensibles como: números de cédula, números telefónicos, direcciones residenciales exactas, nombres reales completos, comentarios privados, ni contraseñas o tokens de configuración del servidor.
